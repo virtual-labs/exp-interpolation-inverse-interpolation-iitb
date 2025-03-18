@@ -1,0 +1,20 @@
+[
+   {
+      "question": "What is the value of x at y = 106 for the given data? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:95%; margin-left:2.5%'' >",
+      "qid": 1,
+      "option_a": "6.23",
+      "option_b": "3.143",
+      "option_c": "1.457",
+      "option_d": "7.912",
+      "correct_option": "b"
+   },
+   {
+      "question": "What is the value of x at y = 96 for the given data? <br><br> <img src='./lab-manual/images/post_image1.png' style='width:95%; margin-left:2.5%'' >",
+      "qid": 2,
+      "option_a": "7.325",
+      "option_b": "3.544",
+      "option_c": "3.076",
+      "option_d": "9.436",
+      "correct_option": "c"
+   }
+]
